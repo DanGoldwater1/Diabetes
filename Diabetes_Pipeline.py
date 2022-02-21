@@ -16,6 +16,7 @@ with open('about.txt', 'r') as file:
     about = about.splitlines()
 
 # about = ['OK']
+print('foo')
 
 
 # about = ['some',
