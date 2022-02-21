@@ -1,0 +1,37 @@
+The worksheets include data for all CCGs and GP practices in England within the November 2021 extraction of NDA data (January 2021 to September 2021 data). These data are provisional and have been subject to fewer data quality and validation checks than data included in final NDA publications.
+
+Data for Local Health Boards (LHB) in Wales and Specialist Diabetes Services are not included in this publication. Their 2021-22 data (for the full audit period January 2021 to March 2022) will be extracted as part of the final NDA 2021-22 collection and reported in the NDA 2021-22 short report publication, scheduled for late 2022. 
+
+Disclosure control has been applied to mitigate the risk of patient identification. Zeros are reported, and all numbers are rounded to the nearest 5, unless the number is 1 to 7, in which case it is rounded to ‘5’. This allows for more granular data to be made available, and also for data for all GP practices to be made available.
+
+Notes and definitions
+
+Please note that an issue has been identified with the source data from one GP system supplier whereby no records were submitted for a set of SNOMED codes relating to statin prescriptions, which are new for this audit period. This has resulted in the reported numerator counts, and associated percentages, for the completion of the following treatment targets being considerably lower than what is believed to be the true value: 
+Primary Prevention - On Statins without CVD History, Secondary Prevention - On Statins with CVD History, Combined Prevention - On Statins, and All Three Treatment Targets NEW 
+       
+
+Care processes
+
+The eight care process checks are: HbA1c, blood pressure, cholesterol, serum creatinine, urine albumin, foot surveillance, body mass index (BMI) and smoking. For patients under 12 years of age, ‘All eight care processes’ is defined as HbA1c only as other care processes are not recommended in the NICE guidelines for this age group.
+
+Treatment targets
+
+'Meeting all three treatment targets' is achieved where a patient has HbA1c ≤58mmol/mol, cholesterol <5mmol/L and blood pressure ≤140/80. For patients under 12 years of age, 'All three treatment targets' is defined as HbA1c only as other treatment targets are not recommended in the NICE guidelines for this age group.
+
+'Meeting all three treatment targets NEW' refers to the new treatment targets introduced in 2017-18:  
+1. Primary prevention of cardiovascular disease (CVD): The percentage of people with diabetes aged 40 to 80 years with no history of heart disease* that received statins during the audit period.
+2. Secondary prevention of CVD: The percentage of people with diabetes (any age) with a history of heart disease* that received statins during the audit period.
+3. Combined prevention of CVD: The percentage of people with diabetes that fall into either of the primary or secondary prevention groups that received statins during the audit period.
+
+The 'Meeting all three treatment targets NEW' in this report is achieved where a person has an HbA1c value ≤ 58mmol/mol, blood pressure ≤140/80 and, for people who fall into the combined prevention of CVD group, is receiving statins. 
+If a person does not fall into the combined prevention of CVD group, 'All three treatment targets' is defined as HbA1c and blood pressure only.
+For patients under 12 years of age 'All three treatment targets' is defined as HbA1c only, as other treatment targets are not recommended in the NICE guidelines for this age group.
+
+*The NDA only has access to Hospital Episode Statistics (HES) data up to March 2019. This means that people with diabetes who were admitted to hospital for a cardiovascular event for the first time between April and December 2019 are not treated as having a 'history of heart disease' in the above treatment target definitions. 
+ 
+Structured Education
+
+Caution should be taken when using structured education programme attendance figures, as it is believed that there is poor recording within primary care systems.
+
+
+Copyright © 2022, Health and Social Care Information Centre. All Rights Reserved
